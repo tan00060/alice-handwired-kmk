@@ -7,3 +7,16 @@
 ### Alice Layout
 
 ![Alice Layout](a0bdcaf05ea43901e474526cc11940d3.png)
+
+### Alice Case
+
+Used [@MajorKoos](https://github.com/MajorKoos) 3d Printed Alice Design - https://github.com/MajorKoos/KBDParts
+
+### Firmware
+
+Used [KMK](https://github.com/KMKfw/kmk_firmware) firmware to program the keyboard.
+
+### Finished Keyboard Pictures
+
+![Keyboard Finished](IMG_5238.jpg)
+![Keyboard Wiring](IMG_5235.jpg)
